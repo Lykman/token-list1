@@ -1,0 +1,39 @@
+{
+  "name": "Solana Token List",
+  "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+  "keywords": ["solana", "spl"],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens used for specific utility functions"
+    },
+    "ai-project": {
+      "name": "ai-project",
+      "description": "Tokens associated with artificial intelligence projects"
+    }
+  },
+  "timestamp": "2025-03-08T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "FEr1ktFYTEmbFJocAqPQrhBotv1r5gCoXNgoEokNbqxD",
+      "symbol": "ULC",
+      "name": "UsmLeoCoin",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/bafybeidcenj5lll4iqvijbwv2rnysctuisnf5rbxakmdtwozdxr6ieozy4",
+      "tags": [
+        "utility-token",
+        "ai-project"
+      ],
+      "extensions": {
+        "website": "https://aiusm.pro",
+        "description": "UsmLeoCoin (ULC) is a utility token that is part of the AI USM ecosystem. The token is used for premium subscriptions, AI bot services, data analysis, content generation, and other platform features. AI USM provides unique artificial intelligence solutions, including educational, medical, and financial tools, as well as personalized recommendations for users.",
+        "telegram": "https://t.me/aiusm_bot"
+      }
+    }
+  ]
+}
